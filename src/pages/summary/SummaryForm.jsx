@@ -10,7 +10,7 @@ export default function SummaryForm() {
 
     setOrderPhase("completed");
   }*/
-  
+
   const popover = (
     <Popover id="popver-basic">
       <Popover.Body>
